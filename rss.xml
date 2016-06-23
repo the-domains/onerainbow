@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[one rainbow art and design]]></title>
+        <description><![CDATA[one rainbow art and design]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 23 Jun 2016 19:21:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am an artist.  Art and creativity are primal means of self-definition for me.  The human experience is by far the most multifaceted aspect of existence, and of course the most confusing!  Art helps bring clarity to our invisibe selves, our souls, and has the potential to assist in the process of aligning our personal soul with the suprapersonal spirit of the universe.  </p>]]></description>
+            <link>undefinedi-am-an-artist-art-and-creativity-are-primal-means-of-self/index.html</link>
+            <guid isPermaLink="false">ffa18a89-1488-4937-83c7-695085368aee</guid>
+            <pubDate>Thu, 23 Jun 2016 19:21:03 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
